@@ -30,4 +30,4 @@ for _ in range(int(input())):
             left = mid + 1
     print('!', left)
 
-# Solved by: Muaath Alqarni 
+# Solved by: Muaath Alqarni  
